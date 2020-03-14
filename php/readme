@@ -1,0 +1,3 @@
+buckets.sessionwake.<HOST>: SessionWake/bucket [private]
+buckets.sessionwake.<HOST>: SessionWake/api [private]
+sessionwake.<HOST>: end [public client end]

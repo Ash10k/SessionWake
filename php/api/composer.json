@@ -1,0 +1,13 @@
+{
+    "name": "koushik/api.sessionwake.machinist.online",
+    "authors": [
+        {
+            "name": "Koushik",
+            "email": "koushikchoudhury0@gmail.com"
+        }
+    ],
+    "require": {
+        "rbdwllr/reallysimplejwt": "^3.0",
+        "ramsey/uuid": "^3.9"
+    }
+}
